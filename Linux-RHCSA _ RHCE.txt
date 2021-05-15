@@ -1,0 +1,100 @@
+Lecture-1 Linux Introduction In HINDI
+Lecture-2 Linux Installation Part-1 In HINDI
+Lecture-3 Linux Installation Part-2 In HINDI
+Lecture-4  Linux - reboot 
+Lecture-5 File Hierarchy Structure, pwd 
+Lecture-6 ls command example In HINDI
+Lecture-7 touch command example In HINDI
+Lecture-8 mkdir command example In HINDI
+Lecture-9 cat 
+Lecture-10 _  and _ symbol example In HINDI
+Lecture-11 head _ tail command example In HINDI 
+Lecture-12 echo command example In HINDI
+Lecture-13 rm 
+Lecture-14 cp 
+Lecture-15 vim command example In HINDI
+Lecture-16 grep command example In HINDI
+Lecture-17 find command example In HINDI
+Lecture-18 Zip,Unzip 
+Lecture-19 quick review what we have complete in linux In HINDI
+Lecture-20 Linux user management - Part 1 In HINDI
+Lecture-21 Linux user management - Part 2 In HINDI
+Lecture-22 Linux user management part 3 In HINDI
+Lecture-23 Linux user management part 4 In HINDI
+Lecture-24 Linux user management part 5 In HINDI
+Lecture-25 Linux Permission Management Part -1 In HINDI
+Lecture-26 Linux Permission Management Part -2 In HINDI
+Lecture-27 Linux Permission Management Part -3 In HINDI
+Lecture-28 Linux Permission Management Part -4 In HINDI
+Lecture-29 Linux Permission Management Part -5 In HINDI
+Lecture-30 Partition management LAB part 1 In  HINDI
+Lecture-31 Partition Management Part - 1 In HINDI
+Lecture-32 LVM Part - 1 In HINDI
+Lecture-33 LVM Part - 2 In HINDI
+Lecture-34 Linux swap partition In HINDI
+Lecture-35 LLinux Software Management RPM Command LAB In HINDI
+Lecture-36 Linux Yum Part -1 In HINDI
+Lecture-37 Linux YUM Part - 2 In HINDI
+Lecture-38 Linux YUM part - 3 In HINDI
+Lecture-39 Linux systemctl 
+Lecture-40 Break root password method - 1 In HINDI
+Lecture-41 Break root password method 2 in HINDI
+Lecture-42 Linux  SUDO Command Example  IN HINDI By Cloud Knowledge
+Lecture-43 Linux JOB Scheduling  Command IN HINDI By Cloud Knowledge
+Lecture-44 Linux Crontab IN HINDI BY Cloud Knowledge
+Lecture-45 Linux Networking Part 1
+Lecture-46 Linux Networking Part 2
+Lecture-47 Linux Networking Part 3
+Lecture-48 Linux Networking Part 4
+Lecture-49 Linux Networking Part 5
+Lecture-50 Linux SSH Part 1
+Lecture-51 Linux SSH Part 2
+Lecture-52 Linux SSH Part 3
+Lecture-53 Linux SSH Part 4
+Lecture-54 What Is Ansible IN HINDI By Cloud Knowledge
+Lecture-55 Ansible Lab Setup IN HINDI By Cloud Knowledge
+Lecture-56 Ansible Lab Setup Part-2 IN HINDI By Cloud Knowledge
+Lecture-57 Ansible Lab Setup Part-3 (Normal User) IN HINDI By Cloud Knowledge
+Lecture-58 How to use ansible command & raw Module IN HINDI By Cloud Knowledge
+Lecture-59 How to use ansible copy module IN HINDI By Cloud Knowledge
+Lecture-60 Ansible fetch module IN HINDI By Cloud Knowledge
+Lecture-61 Ansible file module IN HINDI By Cloud Knowledge
+Lecture-62 Ansible shell module IN HINDI By Cloud Knowledge
+Lecture-63 Ansible Package module IN HINDI By Cloud Knowledge
+Lecture-64 How to use ansible yum_repository module IN HINDI By Cloud Knowledge
+Lecture-65 How to use ansible yum module IN HINDI By Cloud Knowledge
+Lecture-66 Ansible service module IN HINDI By Cloud Knowledge
+Lecture-67 Ansible user & group module IN HINDI By Cloud Knowledge
+Lecture-68 Ansible lineinfile module IN HINDI By Cloud Knowledge
+Lecture-69 Ansible Playbook Example-1 IN HINDI By Cloud Knowledge
+Lecture-70 Ansible Playbook Example-2 IN HINDI By Cloud Knowledge
+Lecture-71 Ansible Playbook Example-3 IN HINDI By Cloud Knowledge
+Lecture-72 Ansible Playbook Example-4 IN HINDI By Cloud Knowledge
+Lecture-73 Ansible Playbook Example-5 IN HINDI By Cloud Knowledge
+Lecture-74 Ansible Playbook Example-6 IN HINDI By Cloud Knowledge
+Lecture-75 Ansible Playbook Example-7 IN HINDI By Cloud Knowledge
+Lecture-76 Ansible Variabls Example-3 IN HINDI By Cloud Knowledge
+Lecture-77 Ansible Variabls Example-2 IN HINDI By Cloud Knowledge
+Lecture-78 Ansible Variabls Example-1 IN HINDI By Cloud Knowledge
+Lecture-79 Ansible Variabls Example-4 IN HINDI By Cloud Knowledge
+Lecture-80 Ansible Variabls Example-5 IN HINDI By Cloud Knowledge
+Lecture-81 Ansible Variabls Example-5 IN HINDI By Cloud Knowledge
+Lecture-82 Ansible loop Example-1 IN HINDI By Cloud Knowledge
+Lecture-83 Ansible loop Example-2 IN HINDI By Cloud Knowledge
+Lecture-84 Ansible loop Part- 3 IN HINDI By Cloud Knowledge
+Lecture-85 Ansible loop Part- 4 IN HINDI By Cloud Knowledge
+Lecture-86 Ansible loop Part- 5 IN HINDI By Cloud Knowledge
+Lecture-87 Ansible loop Part- 6 IN HINDI By Cloud Knowledge
+Lecture-88 Ansible loop Part- 7 IN HINDI By Cloud Knowledge
+Lecture-89 Ansible loop Part- 8 IN HINDI By Cloud Knowledge
+Lecture-90 Ansible Facts Part- 1 IN HINDI By Cloud Knowledge
+Lecture-91 Ansible Facts  Part- 2 IN HINDI By Cloud Knowledge
+Lecture-92 Ansible Condition Statement  Part- 1IN HINDI By Cloud Knowledge
+Lecture-93 Ansible  Condition Statement   Part- 3 IN HINDI  By Cloud Knowledge
+Lecture-94 Ansible  Condition Statement   Part- 3 IN HINDI  By Cloud Knowledge
+Lecture-95 Ansible Condition Statement  Part- 4 IN HINDI By Cloud Knowledge
+Lecture-96 Ansible Condition Statement  Part- 5 IN HINDI By Cloud Knowledge
+Lecture-97 Ansible Condition Statement  Part- 6 IN HINDI By Cloud Knowledge
+Lecture-98 Ansible Notify & Handlers   Part- 1 IN HINDI By Cloud Knowledge
+Lecture-99 Ansible Tags  IN HINDI By Cloud Knowledge
+Lecture-100 Ansible  Ignore errors IN HINDI By Cloud Knowledge

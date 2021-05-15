@@ -1,0 +1,18 @@
+ fdisk -l     --------------------------------------------------------------------->  Number of harddisk present (* os present in the partition)
+lsblk        ---------------------------------------------------------------------->   Another command to check harddisk
+fdisk /dev/sdb --------------------------------------------------------------> Enter in to the harddisk (Where /dev/sdb name of the harddisk)
+n------------------------------------------------------------------------------->For new partition
+p---------------------------------------------------------------------------------> For primary partition
+e-----------------------------------------------------------------------------------> For extended partition
+P --------------------------------------------------------------------------------->For print the harddisk
+w ---------------------------------------------------------------------------------> write the harddisk partition
+partprobe------------------------------------------------------------------------>- to check the harddisk partiton table
+blkid ----------------------------------------------------------------------------->to check the harddisk partition is in format or not
+mkdir /india----------------------------------------------------------------------> Make a folder for partition
+df -h ------------------------------------------------------------------------------> It lists size & usage
+mkfs -t ext2 /dev/sdb1--------------------------------------------------------> Make file system
+mount /dev/sdb1 /india ------------------------------------------------------> Mounted in india
+umount  /india/------------------------------------------------------------------->Unmount 
+vi /etc/fstab------------------------------------------------------------------------>To attach permanetly
+/dev/sdb1 /india ext2 defaults 0 0-------------------------------------------->To attach permanetly
+UUID=54ea062a-097c-4739-b82f-fff  /india ext3 defaults 0 0----------->To attach permanetly

@@ -1,0 +1,18 @@
+nmcli connection show -------------------------->Number of network profile present
+nmcli connection active-------------------------->It will show number of active
+nmcli device show--------------------------------->It wil show the device information
+nmcli device status-------------------------------->It will show the device information
+nmcli connection delete conn-two------------->It will delete the connection conn-two
+nmcli connection con-name delhi-office ifname ens33 type ethernet ipv4.address 30.0.0.12/24 ipv4.gateway 30.0.01 ipv4 dns 30.0.0.30 autoconnect yes----
+                                                        ------------>command to add a new connection
+nmcli connection dowm delhi-office------------>To down a connection which is named as delhi-office
+nmcli connection up delhi-office ---------------->To up a conncetion named delhi-office
+nmcli connection show noida--------------------->It will show the connection of noida
+nmcli connection modify noida +ipv4.addresses 10.125.170.12/24--------> It will add one more ip 10.125.170.12/24  to profile noida
+nmcli connection modify noida ipv4.addresses 10.125.171.12/24--------> It will replace ip 10.125.171.12/24  to profile noida
+nmcli connection modify noida +ipv4.dns 8.8.8.8------------------------------>It will add one more dns 8.8.8.8 to noida profile
+nmcli connection modify noida ipv4.dns 8.8.8.8------------------------------>It will replace dns to 8.8.8.8 in noida profile
+nmcli device disconnect ens33----------------------------------------------------->it will disconnect the device named ens33
+nmcli devie connect ens33-----------------------------------------------------------> It will connect the device named ens33
+
+

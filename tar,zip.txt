@@ -1,0 +1,20 @@
+ 
+tar -cvf redhat.tar /etc --->archive a folder naming etc
+tar -xvf redhat.tar      --->extract the folder named redhat
+
+du -sh /etc   --------> It will show the size of etc
+
+tar -tvf redhat.tar  ---------->list the content of  folder named redhat in current location
+tar -tvf redhat.tar  -C /tmp/ ---------->list the content of  folder named redhat in /tmp/ location
+
+tar -zcvf redhat.tar.gz /etc/--->It will archive , compress & create
+tar -zxvf redhat.tar.gz---------->It will extract the file name redhat.tar.gz
+
+tar -jcvf redhat.tar.bz2 /etc--->compress with gunzip method
+tar -jxvf redhat.tar.bz2---------->It will extract the file name redhat.tar.bz2
+
+tar -jcvf redhat.tar.xz /etc----->compress with xz method
+tar -jxvf redhat.tar.xz---------->It will extract the file name redhat.tar.xz
+
+zip chandan.zip /etc------------->It will zip etc folder naming chandan zip
+unzip chandan.zip---------------->It will extract chandan zip  folder naming etc

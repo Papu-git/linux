@@ -1,0 +1,13 @@
+PVS                              ------------------------------------                 To the number of PV
+VGS                              ------------------------------------                To know number of VG available
+LVS                              ---------------------------------------             To know number of LG available
+pvcreate -v /dev/sdb    -------------------------------------                To create a PV
+pvdisplay /dev/sdb       ------------------------------------                To know number of PV available
+pvcreate    /dev/sdb       -------------------------------------              To create a PV where /dev/sdb is the name of the harddisk   
+vgcreate volumevontainer /dev/sdb /dev/sdc    -----------              To create VG with name volume container and using harddisk (/dev/sdb & /dev/sdc) 
+vgextend volumevontainer /dev/sdd            ------------------          To extend hardisk in vg group
+lvcreate -L 12G -n mylv vokumecontainer           -----------         To create a LV
+ext4 /dev/volumecontainer/mylv                 ------------------          To format and make file system
+mkdir /lv1                                          ==================  To mount
+extend -L +3G -n /dev/volumecontainer   -----------------------      To extend the volume by 3gb
+resize2fs /dev/volumecontainer/mylv           ---------------------     Resize the volume
